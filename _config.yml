@@ -1,4 +1,4 @@
-# This is the default format. 
+﻿# This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:title.html 
 
@@ -13,7 +13,7 @@ redcarpet:
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 唐磊的博客 
+title : 红梅的博客 
 tagline: tanglei.me 
 author :
   name : tanglei 
